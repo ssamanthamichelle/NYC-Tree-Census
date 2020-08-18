@@ -2,8 +2,8 @@
 
 #Data Source: https://data.cityofnewyork.us/Environment/2015-Street-Tree-Census-Tree-Data/pi5s-9p35
 
-#cleaned dataset- 'newtrees.csv'
-#python program to clean data and calculate statistics- 'TreeStats.py'
+##cleaned dataset- 'newtrees.csv'
+##python program to clean data and calculate statistics- 'TreeStats.py'
 
 I chose to work with this one because I thought it was so cool that someone decided to do a tree census.
 It was originally a huge file, my computer was able to download it, but when I tried to open it, a lot of the rows were removed,so this data set is not complete.
@@ -18,4 +18,4 @@ Google sheets was able to verify that the number of trees was correct, however i
 
 Minitab also found the median (8.00) which isn’t too far off from the mean, indicating that there weren’t any outliers.
 
-#This is shown in the file 'minitab-stats.png'
+##This is shown in the file 'minitab-stats.png'
